@@ -8,6 +8,7 @@ A version of the Klondike Solitaire card game that is always solvable.  This is 
 
 ## More Information
 
-1. [Rules](docs/rules.md)
-1. [Layout](docs/layout.md)
-1. [Initial State](docs/initialState.md)
+1. [Rules](/docs/rules.md)
+1. [Layout](/docs/layout.md)
+1. [Initial State](/docs/initialState.md)
+1. [Playing the Game](/docs/playing.md)
