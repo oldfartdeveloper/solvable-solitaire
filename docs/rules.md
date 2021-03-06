@@ -11,3 +11,7 @@ Read the **[Rules section](https://en.wikipedia.org/wiki/Klondike_(solitaire)#Ru
     > Note that this guarantee is a large part of the development of this program.
 
 1. The player with the least number of moves required to finish wins.  The moves count includes undos.
+
+## Links
+
+[Back to README](/README.md)

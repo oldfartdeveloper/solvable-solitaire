@@ -13,3 +13,7 @@ After the cards are randomized (shuffled), they are dealt as follows:
 1. The remaining cards in the deck are placed face-down in the **stock** position.
 
 Observe that there are no cards initially in the **waste** or **foundation**.
+
+## Links
+
+[Back to README](/README.md)

@@ -14,3 +14,7 @@ Variable names used by the program code borrow heavily from the **[Wiki Glossary
 Here's the layout shown of the game early in an example playing session:
 
 ![working game](/docs/imgs/workingGame.png)
+
+## Links
+
+[Back to README](/README.md)
