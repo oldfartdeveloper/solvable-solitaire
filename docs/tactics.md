@@ -6,28 +6,6 @@ This will identify strategies to better play the game.  This will take advantage
 
 Here are the tactics from highest priority to lowest:
 
-* take space
-* take space
-* take space
-* take space
-* take space
-* take space
-* take space
-* take space
-* take space
-* take space
-* take space
-* take space
-* take space
-* take space
-* take space
-* take space
-* take space
-* take space
-* take space
-* take space
-* take space
-
 ## Ace to Foundatation
 
 Whether moving the ace from **waste** or the **tableu**, it is important to open a column in the **foundation** to its ace card so that subsequent cards for that suit can be moved there.
