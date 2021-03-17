@@ -2,7 +2,7 @@
 
 Here's the layout shown of the initial state in an example playing session:
 
-![working game](/docs/imgs/initialAppearance.png)
+![working game](./imgs/initialAppearance.png)
 
 After the cards are randomized (shuffled), they are dealt as follows:
 
