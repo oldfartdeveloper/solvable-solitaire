@@ -9,3 +9,7 @@ Here are the tactics from highest priority to lowest:
 ## Ace to Foundatation
 
 Whether moving the ace from **waste** or the **tableu**, it is important to open a column in the **foundation** to its ace card so that subsequent cards for that suit can be moved there.
+
+## Links
+
+[Back to README](/README.md)

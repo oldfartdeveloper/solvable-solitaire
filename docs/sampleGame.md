@@ -15,3 +15,7 @@ This is an average opening with the following available moves:
 * J♠️ to Q❤️
 
 These moves are taken via [moves within **tableu* take precendence]
+
+## Links
+
+[Back to README](/README.md)
