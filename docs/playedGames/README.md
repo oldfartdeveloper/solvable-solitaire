@@ -70,3 +70,11 @@ For the **tableau**, the cards are dealt *horizontally*:
 * The next 6 cards are dealt into the 2nd row.
 * ...
 * The last single card is dealt into the 7th row
+
+## Initializing New Game from Played Game
+
+This is discussed [here](./2021-3-18a/newGameFromPlayed.md)
+
+## Links
+
+[Back to README](/README.md)
