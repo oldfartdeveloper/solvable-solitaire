@@ -24,7 +24,7 @@ Using the *undo* button and entering the moves in reverse (unless noted, moves a
 * Click **stock** 6 times
 * Move 2♠️ to **foundation**
 * Click **stock** 4 times
-* Move 6♦️ to 7♣️
+* Move 6♦️ (stock) to 7♣️
 * Move 5♠️ to 6♦️
 * Click **stock** 5 times
 * Move 8❤️ (waste) to 9♠️
@@ -36,16 +36,16 @@ Using the *undo* button and entering the moves in reverse (unless noted, moves a
 * Move 9♠️ to 10❤️
 * Move A❤️ to **foundation**
 * Click **stock** 4 times
-* Move 2❤️ to **foundation**
+* Move 2❤️ (waste) to **foundation**
 * Click **stock** 4 times
-* Move A♣️ to **foundation**
+* Move A♣️ (waste) to **foundation**
 * Click **stock** 2 times
 * Move Q♠️ (waste) to K♦️
 * Move J❤️ (waste) to Q♠️
 * Move 10♣️ to J❤️
 * Click **stock** 1 times
-* Move 3❤️ to **foundation**
-* Move K❤️ to empty **tableau** column 3
+* Move 3❤️ (waste) to **foundation**
+* Move K❤️ (waste) to empty **tableau** column 3
 * Move Q♣️ to K❤️
 * Move 2♦️ to 3♠️
 * Move 8♠️ (waste) to 9❤️
@@ -57,7 +57,7 @@ Using the *undo* button and entering the moves in reverse (unless noted, moves a
 * Click **stock** 4 times
 * Move 7♠️ (waste) to 8♦️
 * Click **stock** 5 times
-* Move 6♣️ to 7❤️
+* Move 6♣️ (waste) to 7❤️
 * Move J♦️ (waste) to Q♣️
 * Click **stock** 3 times
 * Move 5❤️ (waste) to 6♣️
