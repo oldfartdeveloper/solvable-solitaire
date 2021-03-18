@@ -15,3 +15,4 @@ A version of the Klondike Solitaire card game that is always solvable.  This is 
 1. [Visualization Enhancements](/docs/visualization.md)
 1. [Tactics](/docs/tactics.md)
 1. [Sample Game](/docs/sampleGame.md)
+1. [Data File Formats](/docs/playedGames/README.md)

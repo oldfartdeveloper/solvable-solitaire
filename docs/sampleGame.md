@@ -86,8 +86,34 @@ At the end, the **tableau** column 3 has 4♠️, 3♦️, and the newly added 2
 
 ### Sweep 3
 
-Click the empty **stock** space to start this sweep.
+Click the empty **stock** space to start this sweep and advance to click **4** in the above table.
 
+| Click # | Card 1 | Card 2 | Card 3 | Notes |
+|----------|---|---|---|----------|
+| 4 | 6♠️ | 9♦️ | 6♣️ | 2♠️ has been moved to **tableau**. So now nowhere to move 6♣️.  All remaining clicks are rotated left on column in the set of 3 **waste** cards |
+| 5 | 10♦️ | 9♣️ | 2❤️ | 2❤️ can be moved to tableau 3♠️. Do it, because we're about to move the A❤️ **foundation** at which time we can then forward 2❤️ to the **foundataion** as well |
+| 6 | A♣️ | 8❤️ | A❤️ | Move A❤️ to **foundation**, then move 2❤️ to the **foundation** as forewarned above. |
+| 7 | 3❤️ | Q♣️ | J♦️ | Nowhere to move J♦️. Plan to move A❤️ |
+| 8 | J♦️ | 4❤️ | 5❤️ | Note J♦️ is repeated as a prepend to the remainder of the two cards 4❤️ and 5❤️. Nowhere to move 5❤️ |
+
+### Sweep 4
+
+Click the empty **stock** space to start this sweep and advance to click **4** in the above table.
+
+| Click # | Card 1 | Card 2 | Card 3 | Notes |
+|----------|---|---|---|----------|
+| 5 | 6♠️ | 9♦️ | 6♣️ | Nowhere to move 6♣️. |
+| 6 | 10♦️ | 9♣️ | A♣️ | Cards shifted left; now move A♣️ to the **foundation** |
+| 7 | 8❤️ | 3❤️ | Q♣️ | Nowherer to move Q♣️ |
+| 8 | J♦️ | 4❤️ | 5❤️ | Nowhere to move 5❤️ |
+
+Here's our game now:
+
+ ![sweep 4](/docs/imgs/sweep4.png)
+
+### Sweep 5
+
+Click the empty **stock** space to start this sweep and advance to click **4** in the above table.
 
 
 ## Links
