@@ -11,13 +11,11 @@ The purpose is to provide two files, a **new.txt** containing the initial game s
 
 ## The Completed Game
 
-Note that this does not show moving the **tableau** cards into the **foundation**; that is a routine task.
+> Note that this does not show moving the *remaining* cards in the **tableau** into the **foundation**; that is a routine task.
 
 ![completed game](/docs/imgs/completedGame.png)
 
-## Working the Steps backwards
-
-Using the *undo* button and entering the moves in reverse (unless noted, moves are within **tableau**):
+## The Moves for this Game
 
 * Move 9❤️ to 10♣️
 * Move A♠️ to **foundation**
