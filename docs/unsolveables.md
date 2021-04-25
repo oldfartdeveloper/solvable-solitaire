@@ -31,7 +31,7 @@ A target initially positioned higher in the same **tableau** column than a candi
 If the candidate "suffers" from being unable to move within the **tableau** *and it also*
 has a lower-value card of the same suit also positioned in the same column above the candidate, then the lower-value card will never be revealed so that it can be moved to the **foundation**, and hence the candidate will never have a target in the **foundataion**.
 
-For example, if the 4❤️ has 2❤️ and a red 7 above it in the same column, and the 4♦️ exists in another column with a 3♦️ and the other red 7 above it, then the 2❤️ won't be moved to the (*TODO*)h.
+For example, if the 4❤️ has 2❤️ and a red 7 above it in the same column, and the 4♦️ exists in another column with a 3♦️ and the other red 7 above it, then the 2❤️ won't be moved to the (*TODO*).
 
 ## Examples of unsolveable games:
 
