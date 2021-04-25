@@ -8,6 +8,7 @@ This project is implemented in PureScript, a functional language derived from Ha
 
 ## The Game and Requirements
 
+1. [Learning Plan](/docs/learningPlan.md)
 1. [Rules](/docs/rules.md)
 1. [Layout](/docs/layout.md)
 1. [Initial State](/docs/initialState.md)
@@ -16,6 +17,7 @@ This project is implemented in PureScript, a functional language derived from Ha
 1. [Tactics](/docs/tactics.md)
 1. [Sample Game](/docs/sampleGame.md)
 1. [Data File Formats](/docs/playedGames/README.md)
+1. [Unsolveable Game Setups](/docs/unsolveables.md)
 
 ## Installation
 
@@ -44,4 +46,5 @@ npx spago build
 npx spago run # should print out the <spaghetti-emoji>
 ```
 
+# Links
 
