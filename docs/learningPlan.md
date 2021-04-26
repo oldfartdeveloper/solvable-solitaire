@@ -22,14 +22,14 @@ This presents further learning challenges:
   * `data`
   * `newtype`
 * At best, I'm rusty on (and have probably never fundamentally grokked) the type classes concepts.  I need to truly grok these concepts as the most interesting features of my program will depend up them.  Hence, I plan to read the following:
-  * [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia)
+  * [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) recommended by Ernesto.
   * [Type Safety Back and Forth](https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html) Use tyhpes to verify desired operation.  Has some Haskell-specific ideoms to force caller to generate correct code to a function instead of the function returning a `Maybe` or `Error` to keep the programmer from having to needlessly check function return results.
 
 ### Keep Reading Other Klondike Research
 
 Many tactics and strategies need to be understood, implemented, and enhanced.
 
-* 
+* Most notably, the one on known factors that cause a game to be unsolveable.
 
 ## Links
 
