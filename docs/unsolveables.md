@@ -34,6 +34,7 @@ For example, if the 4❤️ has 2❤️ and a red 7 above it in the same column,
 ## Examples of unsolveable games
 
 * [2021/04/25](/docs/impossibleGames/2021-04-25.md)
+* [2021/04/29](/docs/impossibleGames/2021-04-29.md)
 
 ## Links
 
